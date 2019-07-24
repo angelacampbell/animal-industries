@@ -1,0 +1,16 @@
+body{
+  /*text*/
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-style: none;
+  font-weight: normal;
+
+  /*canvas*/
+  background-color: #D2D0F7;
+  background-image: none;
+
+  /*spacing*/
+  margin:0;
+  padding:10% 20% 400px 20%;
+  text-align: center;
+}
